@@ -18,8 +18,8 @@ const ShopHeader = () => {
           <nav className="text-sm text-gray-500 mt-4">
             <Link href="/" className="hover:text-blue-600">
               Home
-            </Link>{" "}
-            &gt; <span>Contact</span>
+            </Link>{"/"}
+           <span>Contact</span>
           </nav>
         </div>
       </section>

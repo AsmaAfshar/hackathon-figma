@@ -15,7 +15,7 @@ const ProductDetails: React.FC = () => {
       </div></h2>
       
       <p className="mb-6">
-        Embodying the raw, wayward spirit of rock 'n' roll, the Kilburn portable
+        Embodying the raw, wayward spirit of rock n roll, the Kilburn portable
         active stereo speaker takes the unmistakable look and <br /> sound of Marshall,
         unplugging the chords, and takes the show on the road.
       </p>
